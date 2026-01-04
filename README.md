@@ -214,8 +214,6 @@ Each repository documents a different layer of ownership and maturity.
 
 ## Suggested Diagrams to Add (Optional – Later)
 
-If visuals are added later, recommended diagrams include:
-
 1. **Sales Analytics Scope Diagram**
    - Pricing + Software + Service → Unified App
 
@@ -224,8 +222,6 @@ If visuals are added later, recommended diagrams include:
 
 3. **Security Model Diagram**
    - Users → Roles → KPIs → Data
-
-All visuals should remain conceptual.
 
 ---
 
