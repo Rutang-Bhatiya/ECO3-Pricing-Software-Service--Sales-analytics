@@ -205,10 +205,10 @@ The long-term goal is a **single, unified Sales Analytics platform** supporting 
 
 This repository represents **Phase 1** of a broader transformation:
 
-- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
-- **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
+- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/)
+- **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)
 - **Phase 3:** [`Pricing-Software-Service--Sales-analytics (this repo)`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
-- **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
+- **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/)
 
 Each phase is documented separately to keep clarity and focus.
 
