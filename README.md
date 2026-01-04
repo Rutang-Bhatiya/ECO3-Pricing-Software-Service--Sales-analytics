@@ -209,7 +209,6 @@ This repository represents **Phase 1** of a broader transformation:
 - **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
 - **Phase 3:** [`Pricing-Software-Service--Sales-analytics (this repo)`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
 - **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
-- **Phase 5:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
 
 Each phase is documented separately to keep clarity and focus.
 
@@ -234,3 +233,16 @@ Each phase is documented separately to keep clarity and focus.
 All descriptions use abstracted logic and dummy representations.
 
 No proprietary ECO3 data, pricing logic, or customer information is exposed.
+
+---
+
+## Navigation
+
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+  *It contain links to My portfolio and all major pages and projects*
+
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
+  *Links to all Nielsen Repo*
+
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+  *Links to all ECO3 Repo*
