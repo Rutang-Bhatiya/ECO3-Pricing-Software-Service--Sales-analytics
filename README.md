@@ -201,14 +201,18 @@ The long-term goal is a **single, unified Sales Analytics platform** supporting 
 
 ---
 
-## How This Fits in the ECO3 Analytics Journey
+## How This Repository Fits in the Bigger Journey
 
-This repository is part of the larger **Enterprise Analytics Journey – ECO3**, alongside:
-- Legacy environment discovery
-- Operational BI ownership
-- Data engineering & platform modernization
+This repository represents **Phase 1** of a broader transformation:
 
-Each repository documents a different layer of ownership and maturity.
+- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
+- **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
+- **Phase 3:** [`Pricing-Software-Service--Sales-analytics (this repo)`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
+- **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
+- **Phase 5:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+
+Each phase is documented separately to keep clarity and focus.
+
 
 ---
 
